@@ -27,9 +27,9 @@
 - 使用命令行工具, `cd` 到项目所在文件夹
 - 输入 `pip install -r requirements.txt` 安装依赖
 
-  ```
-  pip install -r requirements.txt
-  ```
+```
+pip install -r requirements.txt
+```
 
 5. **运行**
 
