@@ -19,19 +19,19 @@
 
 # 使用方法
 
-1. 安装 Python 解释器
-2. 配置 Python 环境变量
-3. clone本项目到本地  
- - 下载本项目, 将项目**整个文件夹**丢到需要解析的图像文件夹下
-4. 安装环境依赖
- - 使用命令行工具, `cd` 到项目所在文件夹
- - 输入 `pip install -r requirements.txt` 安装依赖
+1. **安装 Python 解释器**
+2. **配置 Python 环境变量**
+3. **clone本项目到本地**
+- 下载本项目, 将项目**整个文件夹**丢到图像所在的文件夹下
+4. **安装环境依赖**
+- 使用命令行工具, `cd` 到项目所在文件夹
+- 输入 `pip install -r requirements.txt` 安装依赖
 
   ```
   pip install -r requirements.txt
   ```
 
-5. 运行
+5. **运行**
 
 ```
 python run.py
