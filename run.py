@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
 
-from  sys import version_info as vf
+from sys import version_info as vf
 if not (vf.major == 3 and vf.minor >= 8):
     print('\033[40;33;1mOnly for Python >= 3.8\033[0m')
     exit(-1)
